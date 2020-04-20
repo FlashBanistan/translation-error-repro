@@ -14,5 +14,5 @@ import { Component, Input, ChangeDetectionStrategy } from '@angular/core';
   changeDetection: ChangeDetectionStrategy.OnPush,
 })
 export class BooleanTranslationComponent {
-  @Input() value;
+  @Input() value: string;
 }
