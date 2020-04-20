@@ -67,7 +67,8 @@
             "es": {
               "outputPath": "dist/translation-error-repro-es",
               "i18nFile": "src/locale/messages.es.xlf",
-              "i18nLocale": "es"
+              "i18nLocale": "es",
+              "i18nMissingTranslation": "error"
             }
           }
         },
