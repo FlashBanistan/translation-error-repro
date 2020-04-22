@@ -13,7 +13,7 @@
   "dependencies": {
     "@angular/animations": "~9.1.2",
     "@angular/common": "~9.1.2",
-    "@angular/compiler": "~9.1.2",
+    "@angular/compiler": "https://688488-24195339-gh.circle-artifacts.com/0/angular/compiler-pr36741-95f920022d.tgz",
     "@angular/core": "~9.1.2",
     "@angular/forms": "~9.1.2",
     "@angular/localize": "~9.1.1",
@@ -27,7 +27,7 @@
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.901.1",
     "@angular/cli": "~9.1.1",
-    "@angular/compiler-cli": "~9.1.2",
+    "@angular/compiler-cli": "https://688488-24195339-gh.circle-artifacts.com/0/angular/compiler-cli-pr36741-95f920022d.tgz",
     "@angular/language-service": "~9.1.2",
     "@types/node": "^12.11.1",
     "@types/jasmine": "~3.3.8",
