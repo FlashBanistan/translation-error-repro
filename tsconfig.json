@@ -21,7 +21,6 @@
   },
   "angularCompilerOptions": {
     "fullTemplateTypeCheck": true,
-    "strictInjectionParameters": true,
-    "enableI18nLegacyMessageIdFormat": true,
+    "strictInjectionParameters": true
   }
 }
