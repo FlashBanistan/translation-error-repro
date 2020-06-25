@@ -1,4 +1,0 @@
-* text=auto
-*.ts text eol=crlf
-*.html text eol=crlf
-*.xlf text eol=crlf
